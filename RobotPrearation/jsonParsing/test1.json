@@ -1,0 +1,37 @@
+{
+    "id": 101,
+    "name": "John Doe",
+    "is_active": true,
+    "contact": {
+        "email": "johndoe@example.com",
+        "phone": "123-456-7890",
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipcode": "90210"
+        }
+    },
+    "skills": [
+        {
+            "name": "Python",
+            "experience": "5 years"
+        },
+        {
+            "name": "JavaScript",
+            "experience": "3 years"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Website Redesign",
+            "role": "Frontend Developer",
+            "duration": "6 months"
+        },
+        {
+            "title": "Data Analysis Tool",
+            "role": "Backend Developer",
+            "duration": "1 year"
+        }
+    ]
+}
